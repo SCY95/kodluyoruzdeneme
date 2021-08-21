@@ -13,3 +13,9 @@ Bu repository kodluyoruz git egitimi icin acilmistir.
 ## Resim
 
 ![Google Logo](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+
+## Python "Hello World!"
+
+```python
+print("Hello World!")
+```
