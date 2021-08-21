@@ -1,21 +1,30 @@
-# Kodluyoruz Git Egitimi
-## Giriş
+# Kodluyoruz Ilk Repo
 
-Bu repository kodluyoruz git egitimi icin acilmistir.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Git Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-## Liste
-- *Eleman 1*
-- **Eleman 2**
-- ***Eleman 3***
-- [Eleman 4](https://www.google.com)
-- ***[Eleman 5](https://www.youtube.com)***
+![github](figures/github.png)
 
-## Resim
+## Installation
 
-![Google Logo](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+Öncelikle projeyi clonelayın.
 
-## Python "Hello World!"
-
-```python
-print("Hello World!")
+```bash
+git clone https://github.com/SCY95/kodluyoruzilkrepo.git
 ```
+
+## Usage
+
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+Linux için:
+```linux
+cd kodluyoruzilkrepo
+code .
+```
+
+## Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
