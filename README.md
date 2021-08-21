@@ -1,9 +1,9 @@
-## Kodluyoruz Git Egitimi
-# Giriş
+# Kodluyoruz Git Egitimi
+## Giriş
 
 Bu repository kodluyoruz git egitimi icin acilmistir.
 
-# Liste
+## Liste
 - *Eleman 1*
 - **Eleman 2**
 - ***Eleman 3 ***
